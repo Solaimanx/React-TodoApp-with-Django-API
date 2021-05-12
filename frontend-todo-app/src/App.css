@@ -32,7 +32,15 @@ background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
 
 #submit {
   border: 0px;
+  border-radius: 3px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  height:38px
 }
+
+
+
+
 
 .flex-wrapper{
   display:flex;
@@ -48,4 +56,14 @@ background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
 
 .task-wrapper:hover{
   background-color: #F0f0f0;
+}
+
+
+
+.form-control{
+  border-radius: 3px;
+  border-top-right-radius: 0px!important;
+  border-bottom-right-radius: 0px;
+  border-right:0px;
+  
 }
