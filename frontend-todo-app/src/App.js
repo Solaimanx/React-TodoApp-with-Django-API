@@ -218,35 +218,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-// sentence one =
-// [
-// "היי שמי ערן. מה שמך?",
-// " ",
-// "היי ריצ'רד, אתה חדש בחברה?",
-// " ",
-// "נהדר! איפה אתה עובד?",
-// " ",
-// "אני עובד במחלקת השיווק. איך אתה מגיע לעבודה?",
-// " ",
-// "אני בא ברכבת. כמה זמן לוקח לך לעבוד?",
-// " ",
-// "לא הרבה זמן בסביבות 25 דקות." ,
-// " ",
-// ];
-
-// sentence Two =
-// [
-// " ",
-// "Hi Eran, I’m Richard",
-// " ",
-// "Yes, I just started working here last week. ",
-// " ",
-// "I work in the sales department, and you?",
-// " ",
-// "I come by car to work.  And you?",
-// " ",
-// "It usually takes me 45 minutes to get to work, because of heavy traffic. And you?",
-// " ",
-// "Wow that’s great!" ,
-// ];
